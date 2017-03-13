@@ -39,7 +39,7 @@ footer .container .col-md {
   padding: 10px;
   letter-spacing: 0px;
   line-height: 18px;
-  font-size: 13px;
+  font-size: 12px;
 }
 .list {
   padding: 15px;
@@ -50,4 +50,7 @@ footer .container .col-md {
 .link {
   color: #696969;
   text-decoration: underline;
+}
+footer h6 {
+  font-size: 12px;
 }
