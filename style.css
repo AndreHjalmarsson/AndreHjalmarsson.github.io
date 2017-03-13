@@ -51,6 +51,11 @@ footer .container .col-md {
   color: #696969;
   text-decoration: underline;
 }
+.link:hover {
+  color: black;
+  text-decoration: underline;
+}
+
 footer h6 {
   font-size: 12px;
 }
